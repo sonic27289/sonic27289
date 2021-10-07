@@ -5,7 +5,7 @@
 - 🌱 Estou estudando JavaScript
 - 📫 Como entrar em contato: sonic27289@gmail.com
 - 😄 Pronouns: Ele/Dele
-- ⚡ Fun fact: Eu jogo vôlei 
+- ⚡ Curious fact: Eu jogo vôlei 
 
 <div align="center">
   <a href="https://github.com/sonic27289">
